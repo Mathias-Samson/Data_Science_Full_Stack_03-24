@@ -1,0 +1,11 @@
+pandas 
+streamlit
+openpyxl
+plotly
+numpy
+gunicorn
+matplotlib
+seaborn
+boto3
+requests
+python-dotenv
