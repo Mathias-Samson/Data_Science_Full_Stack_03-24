@@ -1,10 +1,9 @@
 [browser]
 serverAddress = '0.0.0.0'
 
-[global]
-dataFrameSerialization = "legacy"
-
 [theme]
 base="dark"
 primaryColor="white"
 
+[global]
+dataFrameSerialization = "arrow"
